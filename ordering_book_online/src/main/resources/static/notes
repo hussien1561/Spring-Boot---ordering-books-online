@@ -1,0 +1,35 @@
+inventory worker
+
+
+items stock
+
+
+id    title    , category     stock    release date       min quantity
+
+ordered by stock  asc
+
+refill request
+
+
+view
+
+restock request
+
+
+view item
+
+ // id , title , category ,  price   ,  length   // release date   status  // pre order
+
+
+
+ inventory stuff
+ view         restock request  data
+
+ update
+
+
+ // restock request  // item id  // item title  // date // request quantity 20 auto // stock // status
+
+
+ edit                                                  15                                    confirmed
+
