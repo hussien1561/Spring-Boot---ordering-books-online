@@ -10,10 +10,11 @@ view pre orders .
 see and edit the discount rules .  
 see the restock requests and update them .
 
-the system : 
-decrease the stock for each item in the order .
-generate restick request   if the stock of an item  is less than  the min. quantity .
-apply discount on the item  if the user  buys a bulk of books .
-generates the recommendation based on the last order .
+the system :
+
+decrease the stock for each item in the order   .          
+generate restick request   if the stock of an item  is less than  the min. quantity .        
+apply discount on the item  if the user  buys a bulk of books .           
+generates the recommendation based on the last order .       
 
 
