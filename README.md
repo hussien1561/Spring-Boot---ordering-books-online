@@ -1,5 +1,10 @@
  rest api  for   ordering books online
 
+
+ video :    https://drive.google.com/file/d/1CmmK0ARya9-V7qdaMBlM3pQyL08UWiaB/view?usp=drive_link      
+
+ 
+
 user can :  
 view books  ,  add items to cart   ,    get bulk discounts   ,             
 place orders    ,   make pre orders    ,   recieve recommendations 
