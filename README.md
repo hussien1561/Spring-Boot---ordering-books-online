@@ -2,13 +2,10 @@ ordering books online project
 
 an api
 
-user can 
-view books
-add items to cart 
-get bulk discounts 
-can place orders 
-can make pre orders 
-can recieve recommendations 
+user can :  
+
+view books  ,  add items to cart ,  get bulk discounts   , 
+can place orders  ,  can make pre orders  ,  can recieve recommendations 
 
 stuff can  
 view stock ordered asc
